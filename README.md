@@ -46,14 +46,14 @@ Test2
 
 1. Clone the repository
 2. Create virtual environment
-   - Use  python3 -m venv myenv
+   - Use  ( python3 -m venv myenv )
 3. Activate
-   - Use  source myenv/bin/activate for Mac
-   - Use  myenv\Scripts\activate for Windows
+   - Use  ( source myenv/bin/activate ) for Mac 
+   - Use  ( myenv\Scripts\activate ) for Windows
 4. Install dependencies
-   - Use  pip install -r requirements.txt
+   - Use  ( pip install -r requirements.txt )
 5. Run
-   - Use  python app.py
+   - Use  ( python app.py )
 
 
 # Acknowledgement
