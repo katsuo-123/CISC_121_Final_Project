@@ -5,7 +5,7 @@
 https://github.com/user-attachments/assets/2a6d419f-b67c-4360-af88-c14284202a77
 
 
-I chose bubble sort, because it is one of the simplest and most basics algorithm. It only compares adjacent elements and uses a very clear rule. This make it very suiatble for demonstations and visualization.
+I chose bubble sort, because it is one of the simplest and most basics algorithm. It only compares adjacent elements and uses a very clear rule. This make it very suiatble for demonstations and visualization. It is also widely used for educational purpose.
 
 
 # Probelm Breakdown
